@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 2019FA CSCI E109A
+## FINAL PROJECT
 
 You can use the [editor on GitHub](https://github.com/zinoopark09/109a-final-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
